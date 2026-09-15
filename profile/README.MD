@@ -1,4 +1,5 @@
 <img src="https://github.com/ZeebxTeam/zeebx-emu/blob/master/assets/zeebx.png?raw=true" alt="Zeebx" width="400">
+
 # O Projeto Zeebx
 
 O projeto Zeebx consiste em um conjunto de recursos de software relacionados ao console brasileiro Zeebo, destinado à preservação e acesso a história do console como um todo.

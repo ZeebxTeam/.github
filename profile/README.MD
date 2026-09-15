@@ -30,4 +30,5 @@ Vocês são livres para criar conteúdo sobre o Zeebx e suas ferramentas, porém
 ## Agradecimentos
 
 - [Requeijaum](https://github.com/requeijaum) - Grande suporte ao entendimento de boa parte do BREW e resolução de bugs
+- Aos grupos Zeebo Clube (Facebook) e Zeebo Eterno (Telegram) que dá suporte e comparações com o console real e me ajuda a trazer maior fidelidade para o projeto <3
 - Toda a comunidade Zeebo que vem apoiando, testando e dando Feedback desde o início!

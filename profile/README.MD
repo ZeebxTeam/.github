@@ -23,11 +23,11 @@ Vocês são livres para criar conteúdo sobre o Zeebx e suas ferramentas, porém
 
 ## Redes Sociais Oficiais
 
-[https://youtube.com/RebQuaker](YouTube)
+[YouTube](https://youtube.com/RebQuaker)
 
-[https://x.com/RebZeebx](X/Twitter)
+[X/Twitter](https://x.com/RebZeebx)
 
 ## Agradecimentos
 
-- [https://github.com/requeijaum](Requeijaum) - Grande suporte ao entendimento de boa parte do BREW e resolução de bugs
+- [Requeijaum](https://github.com/requeijaum) - Grande suporte ao entendimento de boa parte do BREW e resolução de bugs
 - Toda a comunidade Zeebo que vem apoiando, testando e dando Feedback desde o início!

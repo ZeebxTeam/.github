@@ -24,6 +24,7 @@ Vocês são livres para criar conteúdo sobre o Zeebx e suas ferramentas, porém
 ## Redes Sociais Oficiais
 
 [https://youtube.com/RebQuaker](YouTube)
+
 [https://x.com/RebZeebx](X/Twitter)
 
 ## Agradecimentos

@@ -29,5 +29,5 @@ Vocês são livres para criar conteúdo sobre o Zeebx e suas ferramentas, porém
 
 ## Agradecimentos
 
-- Requeijaum - Grande suporte ao entendimento de boa parte do BREW e resolução de bugs
+- [https://github.com/requeijaum](Requeijaum) - Grande suporte ao entendimento de boa parte do BREW e resolução de bugs
 - Toda a comunidade Zeebo que vem apoiando, testando e dando Feedback desde o início!
